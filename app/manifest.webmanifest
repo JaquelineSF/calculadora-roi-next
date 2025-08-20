@@ -1,0 +1,12 @@
+{
+  "name": "Conect Agro Tech — Calculadora de ROI",
+  "short_name": "ROI Conect",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#10b981",
+  "icons": [
+    { "src": "/icon.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}

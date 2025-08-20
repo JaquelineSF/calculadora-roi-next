@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"components/CalculadoraROI.tsx -> react-chartjs-2\":{\"id\":\"components/CalculadoraROI.tsx -> react-chartjs-2\",\"files\":[\"static/chunks/_app-pages-browser_node_modules_react-chartjs-2_dist_index_js.js\"]}}"

@@ -1,5 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* tema escuro clean */
 :root { color-scheme: dark; }
 html, body { height: 100%; }
